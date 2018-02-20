@@ -1,0 +1,20 @@
+#!/bin/bash
+echo 123123
+asf;
+';alf';lad'fl
+s'fl
+sadgk
+;lsakg;
+laskfg;
+lfkg;
+ldfkg
+;lfk
+'aF;
+';dl;sdag'lkslkg;lsakdf
+'adf
+lskdf;l
+sdkf
+'aF
+'LKADF;lkd
+AL;F'
+;asld;asld
