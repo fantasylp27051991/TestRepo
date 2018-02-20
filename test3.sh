@@ -37,6 +37,17 @@ lprower;
 ';werl
 ';werlwe
 'r;
+<<<<<<< HEAD
 qqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqq
+=======
+af;lsd,f
+sd;f'
+sd;f
+'dsf'
+;sd'
+f;
+'sd;f
+';d
+>>>>>>> 558f5f3c692b16f25d4c39ce7be067edb8b72557
